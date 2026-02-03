@@ -1,0 +1,51 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,Claude
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+
+# DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,google.dev
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,seaart.ai
+DOMAIN-SUFFIX,tensor.art
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,runwayml.cloud
+DOMAIN-KEYWORD,runwayml
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,civitai.green
+DOMAIN-KEYWORD,framelink.ai
+DOMAIN-SUFFIX,gradio.app
+DOMAIN-SUFFIX,hitem3d.ai
+DOMAIN-SUFFIX,wavespeed.ai
+DOMAIN-SUFFIX,omnihuman-1.com
+DOMAIN-SUFFIX,klingai.com
+
+DOMAIN-SUFFIX,comfy.org
+
+DOMAIN-SUFFIX,zmk.pw
