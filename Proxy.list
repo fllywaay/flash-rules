@@ -66,13 +66,6 @@ DOMAIN-KEYWORD,s19-e1
 DOMAIN-KEYWORD,s20-e1
 DOMAIN-SUFFIX,service.signalr.net
 DOMAIN-SUFFIX,dudupro.com
-# 直播
-DOMAIN-SUFFIX,jrkan.com
-DOMAIN-SUFFIX,jrskan8.com
-DOMAIN-SUFFIX,jrs17.com
-DOMAIN-SUFFIX,jrs18.com
-DOMAIN-SUFFIX,jrs33.com
-
 
 # 国外DNS
 # DOMAIN-SUFFIX,dns.google #使用谷歌策略
@@ -117,7 +110,21 @@ DOMAIN-SUFFIX,vipbox.lc
 DOMAIN-SUFFIX,xiaoyakankan.com
 
 DOMAIN-SUFFIX,fauxid.com
-DOMAIN-SUFFIX,sportsteam368.com
+# 直播
+DOMAIN-SUFFIX,jrkan.com
+DOMAIN-SUFFIX,jrskan8.com
+DOMAIN-SUFFIX,jrs17.com
+DOMAIN-SUFFIX,jrs18.com
+DOMAIN-SUFFIX,jrs945.com
+DOMAIN-SUFFIX,jrs16.com
+DOMAIN-SUFFIX,jrs33.com
+DOMAIN-SUFFIX,jrs03.com
+DOMAIN-SUFFIX,jrs04.com
+DOMAIN-SUFFIX,jrs80.com
+DOMAIN-SUFFIX,jrkan66.com
+DOMAIN-SUFFIX,jrs21.com
+DOMAIN-SUFFIX,jrs15.com
+
 DOMAIN-SUFFIX,generallattice.com
 
 IP-CIDR,142.250.198.69/32,no-resolve
