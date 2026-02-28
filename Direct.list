@@ -80,7 +80,9 @@ DOMAIN-SUFFIX,subsplease.org
 DOMAIN-SUFFIX,midjourney.ghost.io
 DOMAIN-SUFFIX,midjourney.com
 
-
+#镜像加速
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,gh-proxy.com
 
 # 直播
 DOMAIN-SUFFIX,jrs33.com
