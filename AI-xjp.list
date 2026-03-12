@@ -1,5 +1,25 @@
 
 # 只能新加坡节点
 
-DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,api.perplexity.ai
+DOMAIN,www.perplexity.ai
+DOMAIN,labs.perplexity.ai
+
+# Perplexity 依赖的基础设施
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,pplxlabs.com
+
+# 静态资源 / CDN
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
+
+# Meta AI 规则
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,llama.meta.com
+DOMAIN,api.meta.ai
+DOMAIN,www.meta.ai
+# Meta AI 依赖的 CDN / 基础设施
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net

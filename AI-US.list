@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -30,7 +31,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,google.dev
 
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,seaart.ai
 DOMAIN-SUFFIX,tensor.art
 DOMAIN-SUFFIX,sora.com
@@ -51,4 +51,3 @@ DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,comfy.org
 
 DOMAIN-SUFFIX,zmk.pw
-DOMAIN-SUFFIX,sportsteam368.com
