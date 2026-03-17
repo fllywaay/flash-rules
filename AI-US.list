@@ -47,7 +47,13 @@ DOMAIN-SUFFIX,omnihuman-1.com
 DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,z.ai
-
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitterusercontent.com
+DOMAIN-SUFFIX,cdn.syndication.twimg.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,comfy.org
 
 DOMAIN-SUFFIX,zmk.pw
