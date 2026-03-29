@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+#微软
+DOMAIN-SUFFIX,outlook.live.com
 
 # 国内ai
 DOMAIN-SUFFIX,deepseek.com
