@@ -20,8 +20,11 @@ DOMAIN-SUFFIX,pixabay.com
 # python加速
 DOMAIN-SUFFIX,pythonhosted.org
 
+# 字节海外
+DOMAIN-SUFFIX,joinbytedance.com
+DOMAIN-SUFFIX,seed.bytedance.com
 
-DOMAIN-SUFFIX,makerworld.com
+# DOMAIN-SUFFIX,makerworld.com
 
 # 速卖通（可直连）
 DOMAIN-SUFFIX,aliexpress.com
