@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,google.dev
 
+DOMAIN-SUFFIX,tripo3d.ai
+
+
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,seaart.ai
 DOMAIN-SUFFIX,tensor.art
