@@ -1,0 +1,54 @@
+#模型下载
+DOMAIN-SUFFIX,hf.co
+
+# === BT 协议特征匹配 (基于 URL 关键字) ===
+# 匹配常见的 Tracker 宣告、磁力链接特征、种子搜索、对等端 ID 等
+URL-REGEX,(^magnet:|\?xt=urn:btih:|announce\.php|announce$|scrape$|info_hash=|peer_id=|find_node|get_peers)
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+
+# 俄区 RuTracker 特有的通讯节点
+DOMAIN-SUFFIX,bt.t-ru.org
+DOMAIN-SUFFIX,bt2.t-ru.org
+DOMAIN-SUFFIX,bt3.t-ru.org
+DOMAIN-SUFFIX,bt4.t-ru.org
+
+
+# === 全球主流公共 Tracker 服务器 (域名后缀) ===
+# 绝大多数 BT 种子都会连接这些服务器来寻找上传者
+DOMAIN-SUFFIX,opentrackr.org
+DOMAIN-SUFFIX,t-rb.org
+DOMAIN-SUFFIX,publictracker.xyz
+DOMAIN-SUFFIX,cyberia.is
+DOMAIN-SUFFIX,torrent.eu.org
+DOMAIN-SUFFIX,bitinn.net
+DOMAIN-SUFFIX,reallite.xyz
+DOMAIN-SUFFIX,itzmx.com
+DOMAIN-SUFFIX,my-tracker.org
+DOMAIN-SUFFIX,ipv4.tracker.harry.lu
+DOMAIN-SUFFIX,skye.moe
+
+# === 常见的种子/磁力搜索站 (防止通过代理下载种子文件) ===
+# 虽然搜索网页本身流量小，但通过这些规则可以锁定下载触发点
+DOMAIN-SUFFIX,1337x.to
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,rarbg.to
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,ru-tracker.org
+DOMAIN-SUFFIX,bitsearch.to
+DOMAIN-SUFFIX,btdig.com
+DOMAIN-SUFFIX,btsow.com
+
+# === DHT 网络与 P2P 常见节点识别 ===
+# 专门匹配那些尝试穿透防火墙或寻找节点的数据包特征
+DOMAIN-KEYWORD,dht.transmissionbt.com
+DOMAIN-KEYWORD,router.bittorrent.com
+DOMAIN-KEYWORD,router.utorrent.com
+DOMAIN-KEYWORD,dht.aelitis.com
+DOMAIN-KEYWORD,seeders
+DOMAIN-KEYWORD,leechers
+
+# === 特殊 P2P 下载协议 ===
+# 匹配电驴 (ed2k) 和其他点对点协议
+URL-REGEX,(^ed2k://|^thunder://|^flashget://)
