@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,drum.machin3.io
 #病毒伪装
 DOMAIN-SUFFIX,py-installer.cc
 
+#adobe ill CAD 插件
+DOMAIN-SUFFIX,keys.hotdoor.com
+
 # UltraEdit ; 
 DOMAIN-SUFFIX,licensing.ultraedit.com 
 DOMAIN-SUFFIX,swupdate.ultraedit.com 
